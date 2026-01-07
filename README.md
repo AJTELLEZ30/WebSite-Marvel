@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Kenley Gaitan** - [GitHub Profile](https://github.com/Gaitan19)
+**Alberto Tellez** - [GitHub Profile](https://github.com/AJTELLEZ30)
 
 ## 🙏 Acknowledgments
 
